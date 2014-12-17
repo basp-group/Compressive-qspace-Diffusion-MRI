@@ -1,0 +1,1 @@
+Gradient lista generated with the "gendir" script of mrtrix
